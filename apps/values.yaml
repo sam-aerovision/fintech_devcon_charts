@@ -1,2 +1,2 @@
 deployWatchman: true
-deployWatchmanIngress: false
+deployWatchmanIngress: true
